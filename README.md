@@ -8,3 +8,8 @@ Each tutorial has its own catalog which includes:
 - Python script to generate the code
 - generated verilog file
 - implementation with generated bitstream
+
+
+Made by:
+Marek Czekalski
+Daniel Jarosz
