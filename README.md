@@ -11,5 +11,5 @@ Each tutorial has its own catalog which includes:
 
 
 Made by:
-Marek Czekalski /n
+Marek Czekalski and
 Daniel Jarosz
